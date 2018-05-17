@@ -1,0 +1,26 @@
+/*Codigo para agregar botones*/
+
+<div data-role="main" class="ui-content" align="center">
+  <div style="width:20%;">
+     <ul data-role="controlgroup" data-type="vertical" data-theme="a"> 
+    <li class="ui-first-child ui-last-child">
+    <a href="https://www.paxala.com/la-batalla-de-puebla/"target="_self" data-role="button">
+        <h2>Leer more</h2>
+    </a>
+    </li>
+    </ul>
+    </div>
+    </div>
+
+
+/*codigo para agregar colapsables*/
+
+  <div data-role="main" class="ui-content">
+    <div data-role="collapsible" data-content-theme="false">
+        <h1>DESPLEGAR</h1>
+     <div>
+      <h2>Te quiero </h2>
+     </div>
+   
+    </div>
+  </div>
